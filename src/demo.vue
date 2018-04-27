@@ -24,7 +24,7 @@
   </div>
 </template>
 <script>
-import scroll from './scroll'
+import scroll from './components/scroll'
 export default {
   components:{
       scroll
